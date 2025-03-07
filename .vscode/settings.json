@@ -1,0 +1,12 @@
+{
+  "python.pythonPath": "C:\\Users\\ANKIT PATHAK\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+  "task.allowAutomaticTasks": true,
+  "debug.openDebug": "neverOpen",
+  "terminal.integrated.inheritEnv": false,
+  "tasks": {
+    "label": "lint on open",
+    "type": "shell",
+    "command": "npm run lint",
+    "runOn": "folderOpen"
+  }
+}
