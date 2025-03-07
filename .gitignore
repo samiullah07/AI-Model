@@ -1,0 +1,19 @@
+# Ignore the envJarvis directory
+/envjarvis/
+
+# Ignore contact.csv
+contacts.csv
+
+# Ignore jarvis.db
+jarvis.db
+
+# Ignore Python bytecode files in backend
+/backend/__pycache__/ 
+
+# Ignore backend cookie.json
+/backend/cookie.json
+/backend/config.py
+
+# Ignore env file (if you have any .env file)
+config.bat
+node_modules
